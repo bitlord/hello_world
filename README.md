@@ -1,2 +1,2 @@
-Please read me!
-OK OK!
+Project Hello World
+Author: GitN00b
