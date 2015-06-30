@@ -17,7 +17,8 @@
 
 
 def main():
-    print 'Hello World'
+    msg = 'Hello World'
+    print '%s' % msg
     return 0
 
 if __name__ == '__main__':
